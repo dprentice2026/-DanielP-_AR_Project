@@ -368,7 +368,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 7}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -789,7 +789,7 @@ PrefabInstance:
     - target: {fileID: 774100038497631397, guid: ed5d6592871a1524c8e08f8e4dee7c6b, type: 3}
       propertyPath: m_ControllerCamera
       value: 
-      objectReference: {fileID: 2512387468973847745}
+      objectReference: {fileID: 0}
     - target: {fileID: 6605111590819766858, guid: ed5d6592871a1524c8e08f8e4dee7c6b, type: 3}
       propertyPath: m_Name
       value: Screen Space Ray Interactor
